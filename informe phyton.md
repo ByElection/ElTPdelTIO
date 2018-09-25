@@ -2,7 +2,8 @@
 
 *Python es un lenguaje de programación interpretado cuya filosofía hace hincapié en una sintaxis que favorezca un código legible. Se trata de un lenguaje de programación multiparadigma, ya que soporta orientación a objetos, programación imperativa y, en menor medida, programación funcional.*
 
-## Ciclos: En python hay solo dos tipos de loops o ciclos y son los ciclos while y los ciclos for.  
+## Ciclos:  
+En python hay solo dos tipos de loops o ciclos y son los ciclos while y los ciclos for.  
 Ejemplo:  
 <pre> 
 x = 0
