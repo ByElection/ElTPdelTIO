@@ -4,12 +4,20 @@
 
 ## Ciclos:  
 En python hay solo dos tipos de loops o ciclos y son los ciclos while y los ciclos for.  
-Ejemplo:  
+## While: ## El bloque de código se ejecutará mientras se cumpla la condición (mientras sea verdadera).  
+Ejemplo de while:  
 <pre> 
 x = 0
 while x < 10:
     x = x + 1
-print x </pre>
+print x </pre>  
+El código hará que aumente x hasta ser 10 y lo imprima.
+
+## For: ## l bloque de código se ejecutará mientras no acabe de recorrer la lista. El valor de variable será el item de la lista que está siendo tratado en el momento.  
+Ejemplo de for:  
+<pre>
+for i in range(-9, 10):
+    print i </pre>
 
 ## Funciones:
 
