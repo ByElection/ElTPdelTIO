@@ -20,8 +20,8 @@ Hay herramientas que usan las docstrings para producir automáticamente document
 
 ## Imprimir En Pantalla
 
-En Informática, la "salida" de un programa son los datos que el programa proporciona al exterior.  
-Aunque en los incios de la informática la salida más habitual era una impresora, hace muchos años que el dispositivo de salida más habitual es la pantalla del ordenador.
+*En Informática, la "salida" de un programa son los datos que el programa proporciona al exterior.  
+Aunque en los incios de la informática la salida más habitual era una impresora, hace muchos años que el dispositivo de salida más habitual es la pantalla del ordenador.*
 
 ### La Funcion **print()**
 
