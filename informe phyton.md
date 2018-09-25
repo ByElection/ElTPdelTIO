@@ -1,13 +1,14 @@
 # Informe de Phyton #
 
 ## Funciones:
-def fib(n):  # escribe la serie de Fibonacci hasta n
-"""Escribe la serie de Fibonacci hasta n."""
-     a, b = 0, 1
-     while a < n:
-         print(a, end=' ')
-         a, b = b, a+b
-     print()
+
+def fib(n):  # escribe la serie de Fibonacci hasta n  
+"""Escribe la serie de Fibonacci hasta n."""  
+     a, b = 0, 1  
+     while a < n:  
+          print(a, end=' ')  
+          a, b = b, a+b  
+         print()
 La palabra reservada def se usa para definir funciones. Debe seguirle el nombre de la función y la lista de parámetros formales entre paréntesis.  
 Las sentencias que forman el cuerpo de la función empiezan en la línea siguiente, y deben estar con sangría.
 
