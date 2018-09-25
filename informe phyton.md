@@ -10,7 +10,7 @@
      while a < n:  
           print(a, end=' ')  
           a, b = b, a+b  
-         print()<code>
+         print()</pre>
 La palabra reservada def se usa para definir funciones. Debe seguirle el nombre de la función y la lista de parámetros formales entre paréntesis.  
 Las sentencias que forman el cuerpo de la función empiezan en la línea siguiente, y deben estar con sangría.
 
