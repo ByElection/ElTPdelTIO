@@ -146,8 +146,8 @@ print("Adios")</pre>
 
 #Evidencia del cumplimiento de las pautas de aprobacion
 
-![Imagen de Commits](/Imagenes/Commits.jpg.jpg "Imagen de Commits")  
-![Imagen de Contributors](/Imagenes/Contributors.jpg "Imagen de Contributors")  
-![Imagen de Merge](/Imagenes/Merge.jpg "Imagen de Merge")  
-![Imagen de Pulse](/Imagenes/Pulse.jpg "Imagen de Pulse")  
-![Imagen de Traffic](/Imagenes/Traffic.jpg "Imagen de Traffic")
+![Imagen de Commits](https://github.com/ByElection/ElTPdelTIO/blob/master/Imagenes/Commits.JPG "Imagen de Commits")  
+![Imagen de Contributors](https://github.com/ByElection/ElTPdelTIO/blob/master/Imagenes/Contributors.jpg "Imagen de Contributors")  
+![Imagen de Merge](https://github.com/ByElection/ElTPdelTIO/blob/master/Imagenes/Merge.jpg "Imagen de Merge")  
+![Imagen de Pulse](https://github.com/ByElection/ElTPdelTIO/blob/master/Imagenes/Pulse.jpg "Imagen de Pulse")  
+![Imagen de Traffic](https://github.com/ByElection/ElTPdelTIO/blob/master/Imagenes/Traffic.jpg "Imagen de Traffic")
