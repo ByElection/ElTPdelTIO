@@ -2,6 +2,25 @@
 
 *Python es un lenguaje de programación interpretado cuya filosofía hace hincapié en una sintaxis que favorezca un código legible. Se trata de un lenguaje de programación multiparadigma, ya que soporta orientación a objetos, programación imperativa y, en menor medida, programación funcional.*
 
+##If:
+
+Puede haber cero o más bloques elif, y el bloque else es opcional. La palabra reservada ‘elif‘ es una abreviación de ‘else if’, y es útil para evitar un sangrado excesivo. Una secuencia if ... elif ... elif ... sustituye las sentencias switch o case encontradas en otros lenguajes.
+
+Ejemplo:  
+<pre>x = int(input("Ingresa un entero, por favor: "))
+Ingresa un entero, por favor: 42
+    if x < 0:
+      x = 0
+      print('Negativo cambiado a cero')
+    elif x == 0:
+      print('Cero')
+    elif x == 1:
+      print('Simple')
+    else:
+      print('Más')
+
+'Mas'</pre>
+
 ## Funciones:
 
 <pre>def fib(n):  # escribe la serie de Fibonacci hasta n  
