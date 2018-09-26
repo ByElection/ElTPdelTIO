@@ -144,10 +144,16 @@ print("Adios")</pre>
 
 ** Nuestro repositorio: ** (https://github.com/ByElection/ElTPdelTIO)
 
-#Evidencia del cumplimiento de las pautas de aprobacion
+# Evidencia del cumplimiento de las pautas de aprobacion
+
+
 
 ![Imagen de Commits](https://github.com/ByElection/ElTPdelTIO/blob/master/Imagenes/Commits.JPG "Imagen de Commits")  
-![Imagen de Contributors](https://github.com/ByElection/ElTPdelTIO/blob/master/Imagenes/Contributors.jpg "Imagen de Contributors")  
-![Imagen de Merge](https://github.com/ByElection/ElTPdelTIO/blob/master/Imagenes/Merge.jpg "Imagen de Merge")  
-![Imagen de Pulse](https://github.com/ByElection/ElTPdelTIO/blob/master/Imagenes/Pulse.jpg "Imagen de Pulse")  
-![Imagen de Traffic](https://github.com/ByElection/ElTPdelTIO/blob/master/Imagenes/Traffic.jpg "Imagen de Traffic")
+
+![Imagen de Contributors](https://github.com/ByElection/ElTPdelTIO/blob/master/Imagenes/Contributors.JPG "Imagen de Contributors")  
+
+![Imagen de Merge](https://github.com/ByElection/ElTPdelTIO/blob/master/Imagenes/Merge.JPG "Imagen de Merge")  
+
+![Imagen de Pulse](https://github.com/ByElection/ElTPdelTIO/blob/master/Imagenes/Pulse.JPG "Imagen de Pulse")  
+
+![Imagen de Traffic](https://github.com/ByElection/ElTPdelTIO/blob/master/Imagenes/Traffic.JPG "Imagen de Traffic")
