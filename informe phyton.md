@@ -2,6 +2,47 @@
 
 *Python es un lenguaje de programación interpretado cuya filosofía hace hincapié en una sintaxis que favorezca un código legible. Se trata de un lenguaje de programación multiparadigma, ya que soporta orientación a objetos, programación imperativa y, en menor medida, programación funcional.*
 
+## Valores y tipos de datos:
+
+Un valor es una de las cosas fundamentales que un programa manipula como una letra o un número.  
+Estos valores pertenecen a diferente clases (classes) o tipos: 4 es un entero, y "¡Hola, todo el mundo!" es una cadena , llamada así porque contiene una cadena de letras. Usted (y el intérprete) puede identificar cadenas porque están encerradas entre comillas.  
+Si usted no está seguro de que clase se divide en un valor, Python tiene una función llamada tipo (type) la cual le incida a usted.  
+<pre>type("Hola, todo el mundo!")
+<class 'str'>
+type(17)
+<class 'int'> </pre>  
+No es sorprendente que las cadenas pertenezcan al tipo str y los enteros pertenezcan al tipo int . Los números con un punto decimal pertenezcan a un tipo llamado float, porque éstos se representan en un formato denominado punto flotante. En esta etapa, se puede tratar la clase y el tipo de palabras de manera intercambiable. Volveremos a una comprensión más profunda de lo que es una clase en capítulos posteriores.  
+<pre>type(3.2)
+<type 'float'> </pre>  
+¿Que ocurre con valores como "17" y "3.2"? Parecen números, pero están encerrados entre comillas como las cadenas.  
+<pre>type("17")
+<type 'str'>
+type("3.2")
+<type 'str'> </pre>  
+Ellos son cadenas.  
+Cadenas en Python puede ser incluida en cualquiera de los dos comillas simples (') o comillas dobles (") o tambien comillas triples de cada una (''' o """)  
+<pre>type('Esta es una cadena.')
+<type 'str'>
+type("y esta es tambien.")
+<typle 'str'>
+type("""y esta.""")
+<typle 'str'>
+type('''e incluso esta...''')
+<class 'str'> </pre>  
+Cadenas de comillas doble pueden contener comilla simple dentro de ellas, como en "Bruce's Beard", y cadenas de comilla simple pueden tener comillas doble dentro de ellas tambien, como en 'Los caballeros que dicen "Ni!"'.  
+Cadenas cerradas con tres apariciones de los símbolos citan son llamados cuerdas triples cita. Pueden contener comillas simples o dobles:  
+<pre>print('''"Oh no", ella exclamó, "La moto de Ben esta dañada!"''')
+"Oh no", ella exclamó, "La moto de Ben esta dañada!" </pre>  
+Cadenas triple cita incluso puede abarcar varias líneas:  
+<pre>mensaje = """Este mensaje
+span several
+lines."""
+print(mensaje)
+Este mensaje
+abarcar varios
+líneas. </pre>  
+
+
 ## If:
 
 Puede haber cero o más bloques elif, y el bloque else es opcional. La palabra reservada ‘elif‘ es una abreviación de ‘else if’, y es útil para evitar un sangrado excesivo. Una secuencia if ... elif ... elif ... sustituye las sentencias switch o case encontradas en otros lenguajes.
